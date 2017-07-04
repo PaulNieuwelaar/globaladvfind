@@ -12,5 +12,4 @@ v1.1.0.0
 - Button flicker when navigating has been reduced
 
 Created by Paul Nieuwelaar - http://paulnieuwelaar.wordpress.com - https://twitter.com/paulnz1
-
 Sponsored by Magnetism Solutions - Dynamics CRM Specialists - http://www.magnetismsolutions.com
