@@ -1,5 +1,5 @@
 # Dynamics CRM 2013 Global Advanced Find
-[![download](https://user-images.githubusercontent.com/14048382/27844360-c7ea9670-6174-11e7-8658-80d356c1ba8f.png)](https://github.com/PaulNieuwelaar/globaladvfind/raw/master/GlobalAdvancedFind_1_1_0_0_managed.zip)
+[![download](https://user-images.githubusercontent.com/14048382/27844360-c7ea9670-6174-11e7-8658-80d356c1ba8f.png)](https://github.com/PaulNieuwelaar/globaladvfind/releases/download/v1.1/GlobalAdvancedFind_1_1_0_0_managed.zip)
 
 This solution adds Advanced Find into the navigation bar next to Global Quick Create.
 
